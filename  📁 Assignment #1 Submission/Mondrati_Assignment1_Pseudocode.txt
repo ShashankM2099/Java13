@@ -1,0 +1,18 @@
+First imported java.util.Random;
+written the author, version and description of the assignment
+IN the main method, declared and initialized few variables such as int(wins,loss,rounds, dices, and rolls).
+Thought it'd be best to use a for-loop for 100,00 rounds.
+Starting with int i=0 and end value to be 100,000.
+In my method. I called roll.
+Initliazed and declared a new random generator called random. 
+For two dices.
+Used if's, elif's and else statement's in this project.
+If score equals 7 or 11
+You win a point in both rolls, and when you do. Rolls, round, and WINS get a +1
+If score equals 2,3 or 11..YOU LOSE
+and also rolls, round and LOSS get a +1
+When there's a draw, before the round is over. Added a while loop in else statement.
+When score equals point you WIN. and all get a +1
+When score equals before 7..round is over and all get a +1 in counting. 
+When done. The output prints with each round, with two dies, giving what each die scored
+total score of both dies, and who won. The number of wins and losses in said total rounds.
